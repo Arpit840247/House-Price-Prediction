@@ -1,0 +1,22 @@
+IBM SkillsBuild Data Analytics with AI Internship Project Report
+Project Name: House Price Prediction System
+Intern Name: Arpit Srivastav
+Program: AICTE | IBM SkillsBuild Data Analytics with AI Internship 2026 (BharatCares)
+
+1. Abstract / Executive Summary
+The House Price Prediction System leverages Machine Learning algorithms to accurately predict real estate property values based on key input metrics such as square footage area and room capacity. Built using Python, Scikit-Learn, Flask backend API, and Streamlit interactive dashboard, this project demonstrates end-to-end data processing, model training, API integration, and front-end user experience.
+
+2. Objectives
+• To build a reliable regression model for real estate price forecasting.
+• To process and scale numerical parameters efficiently using Python data science libraries.
+• To establish a modular client-server API architecture using Flask and Streamlit.
+
+3. Methodology & Tech Stack
+• Data Collection & Cleaning: Pandas, NumPy
+• Machine Learning Algorithm: Linear Regression (Scikit-Learn)
+• Scaling & Evaluation: StandardScaler, Mean Squared Error, R2 Score
+• API Backend: Flask REST API
+• User Interface: Streamlit Dashboard
+
+4. Results & Conclusion
+The model achieved consistent predictive accuracy across tested inputs. The interactive Streamlit frontend enables seamless estimation of property valuations in real-time.
